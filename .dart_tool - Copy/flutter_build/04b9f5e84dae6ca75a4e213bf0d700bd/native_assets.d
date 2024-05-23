@@ -1,0 +1,1 @@
+ D:\\Uni\\Sem\ 6\\HCD\\FInal\ Project\\HCD\ _\ PROJECT\\todo\\.dart_tool\\flutter_build\\04b9f5e84dae6ca75a4e213bf0d700bd\\native_assets.yaml: 
